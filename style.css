@@ -1,0 +1,23 @@
+
+
+.container{
+    background-color: saddlebrown;
+    width: 80%;
+    height: 400px;
+    padding: 15px;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+li img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.splide__slide{
+    padding: 0 1rem 0 1rem;
+}
